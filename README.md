@@ -6,7 +6,6 @@ O objetivo foi construir uma **Landing Page** aplicando os fundamentos do **CSS*
 - Propriedades básicas da linguagem de estilização  
 - Conceitos de medidas relativas e absolutas  
 - Estruturação de layout responsivo  
-
 ---
 
 ## Tema da Landing Page
