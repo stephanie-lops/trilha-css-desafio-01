@@ -14,6 +14,8 @@ A página foi inspirada na série de TV **"Ruptura" (Severance)**, disponível n
 Uma forma criativa de unir prática de programação com estética de uma obra que gosto bastante. ✨
 
 ---
+## Preview do Projeto
+![Preview da Página](assets/images/preview-ruptura.png)
 
 ## Deploy Online
 👉 [Acesse aqui](https://trilha-css-desafio-01-landing-page-ruptura.vercel.app/)
