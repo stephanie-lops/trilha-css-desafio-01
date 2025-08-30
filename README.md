@@ -48,5 +48,5 @@ Uma forma criativa de unir prática de programação com estética de uma obra q
 
 ## Créditos
 
-Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
-Autora: Stephanie Lopes
+- Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
+- Autora: Stephanie Lopes
