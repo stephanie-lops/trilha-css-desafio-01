@@ -33,15 +33,14 @@ Uma forma criativa de unir prática de programação com estética de uma obra q
 
 ---
 
-## 🔧 Como Executar Localmente
+## Como Executar Localmente
 1. Clone este repositório:
    ```bash
    git clone https://github.com/stephanie-lops/trilha-css-desafio-01-landing-page-ruptura.git
 
 2. Acesse a pasta do projeto:
-```bash
-  cd trilha-css-desafio-01-landing-page-ruptura
-```
+   ```bash
+   cd trilha-css-desafio-01-landing-page-ruptura
 
 3. Abra o arquivo index.html no navegador de sua preferência
 
